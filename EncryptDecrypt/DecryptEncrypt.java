@@ -1,6 +1,7 @@
 import xoxo.XoxoView;
 import xoxo.XoxoController;
 
+
 /**
  * Main class that runs the Xoxo Controller.
  * 
@@ -12,7 +13,6 @@ public class DecryptEncrypt{
 
     /**
      * The main method.
-     * 
      * @param args Argument strings.
      */
     public static void main(String[] args) {
